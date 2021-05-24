@@ -5,7 +5,7 @@ crie um programa que declara uma lista (array) capaz de armazenar 10 (dez) nomes
 Observe um tabuleiro de xadrez  e crie um programa em Java que o represente através de um array de duas dimensões, em que cada casa irá conter a sua cor BRANCA ou PRETA, como sendo valores do tipo String. Imprima cada uma das casas do array, após iniciá-los.
 Dica: não tente definir uma a uma, pois serão 64 linhas de códigos. Ao invés disso, crie estruturas com comandos de repetição para preenchê-lo e imprimi-lo.
 
-##Atividade 03
+## Atividade 03
 Crie um programa que registra uma lista de compras semanais com itens como: arroz, feijão, carne, pão etc. Utilize os três tipos de coleções vistos até aqui: HashSet, ArrayList e HashMap.
 
 ## Atividade 04 
